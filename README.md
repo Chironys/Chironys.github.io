@@ -36,5 +36,5 @@ We believe that hardware is better when it's peer-reviewed. We are actively look
 * **June:** Post-Plum Rain durability analysis.
 
 ---
-**Contact:** [你的帳號]@gmail.com  
+**Contact:** chironys@gmail.com  
 *Driven by Engineering Integrity. Built by Chironys.*
